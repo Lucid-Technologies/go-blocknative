@@ -1,4 +1,4 @@
-module github.com/lucid-technologies/go-blocknative
+module github.com/Lucid-Technologies/go-blocknative
 
 go 1.18
 
