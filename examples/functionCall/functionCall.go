@@ -62,6 +62,7 @@ func main() {
 			contractAddr,
 			true,
 			abi,
+			nil,
 		)
 		cfgMsg.Filters = []map[string]string{
 			{
